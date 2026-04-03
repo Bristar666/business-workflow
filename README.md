@@ -17,3 +17,39 @@ The system produces:
 
 ## Why this task is valuable
 This task is repetitive and time-consuming. A GenAI workflow can help create a first draft quickly, improve consistency, and make follow-up easier after meetings.
+
+## Setup
+
+From the project root, create a virtual environment (optional but recommended) and install dependencies:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+## Configuration
+
+Create a `.env` file in the project root (do not commit it). Add your API key:
+
+```
+GEMINI_API_KEY=your_key_here
+```
+
+Get a key from Google AI Studio. The app loads this value with `python-dotenv`.
+
+## Run
+
+Provide a path to a text file with meeting notes. Example:
+
+```bash
+python app.py sample_notes.txt
+```
+
+The script prints the model response to the terminal and saves the same text to `output.txt` in the current working directory.
+
+## Walkthrough video
+
+Add your Week 2 walkthrough link here after you upload the video (for example YouTube or Loom):
+
+- **Video:** *(paste URL here)*

@@ -6,7 +6,7 @@ This project focuses on turning raw meeting notes into a short meeting summary a
 
 ## Model Choice
 
-I used Gemini through the Google GenAI Python SDK. I chose this model because it was easy to access through Google AI Studio, worked well with simple Python integration, and was sufficient for a lightweight prototype. Since the assignment focused on building and evaluating a small workflow rather than optimizing across many providers, I chose one model and concentrated on improving the prompt design.
+I used Gemini (model ID `gemini-2.5-flash`) through the Google GenAI Python SDK. I chose this model because it was easy to access through Google AI Studio, worked well with simple Python integration, and was sufficient for a lightweight prototype. Since the assignment focused on building and evaluating a small workflow rather than optimizing across many providers, I chose one model and concentrated on improving the prompt design.
 
 ## Baseline vs. Final Design
 
