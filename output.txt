@@ -2,10 +2,8 @@ Here's the summary and action items based on your notes:
 
 **Meeting Summary**
 The project team is nearing completion of the final website draft.
-Timeline:
-*   Final design files are due by Wednesday.
-*   The team plans to launch the website next Tuesday.
+Timeline: The team plans to launch next Tuesday.
 
 **Action Items**
-*   **Send final design files:** Sarah (by Wednesday)
-*   **Update homepage copy:** Kevin (by Friday)
+*   Send the final design files - Sarah (by Wednesday)
+*   Update the homepage copy - Kevin (by Friday)

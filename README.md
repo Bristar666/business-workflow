@@ -50,6 +50,4 @@ The script prints the model response to the terminal and saves the same text to 
 
 ## Walkthrough video
 
-Add your Week 2 walkthrough link here after you upload the video (for example YouTube or Loom):
-
-- **Video:** *(paste URL here)*
+- **Video:** [Week 2 walkthrough (YouTube)](https://youtu.be/dvJhs8XPJZg)
